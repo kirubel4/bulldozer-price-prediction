@@ -1,0 +1,3 @@
+# Ignore Python virtual environment
+env/
+data/bluebook-for-bulldozers/*.csv
