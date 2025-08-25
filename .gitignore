@@ -2,3 +2,4 @@
 env/
 data/bluebook-for-bulldozers/*.csv
 .ipynb_checkpoints/
+data/train_tmp.csv
